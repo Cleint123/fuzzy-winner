@@ -1,4 +1,4 @@
-# fuzzy-winner
+# ProxyGuard
 
 This repository contains a small set of example plugins called **ProxyGuard** that enforce joining through a Velocity/Bungee proxy. The goal is to prevent players from connecting directly to backend servers while still allowing proxy‑routed traffic.
 
