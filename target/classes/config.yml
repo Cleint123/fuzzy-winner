@@ -1,0 +1,5 @@
+# list of proxy IPs that are allowed to connect to this server directly
+# add your Velocity or Bungee proxy address(es) here. Multiple values allowed.
+allowed-proxies:
+  - 192.168.0.5
+  - 203.0.113.42

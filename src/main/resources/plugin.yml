@@ -1,0 +1,12 @@
+name: ProxyGuard
+main: com.example.proxyguard.ProxyGuardServer
+version: 1.0
+api-version: 1.13
+
+
+messages:
+  direct-join-kick: "[Proxyguard] You cannot directly join that server. Please connect through the proxy"
+
+commands: {}
+
+author: YourName
